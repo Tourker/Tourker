@@ -59,7 +59,6 @@
   <img width="12" />
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_identity.svg" height="40" alt="zabbix logo"  />
   <img width="12" />
-  <img src="https://theblueprint.ru/upload/25517/logo.png" height="40" alt="yandex logo"  />
   
 </div>
 
