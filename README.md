@@ -59,6 +59,7 @@
   <img width="12" />
   <img src="https://assets.zabbix.com/img/logo/zabbix_logo_identity.svg" height="40" alt="zabbix logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
   
 </div>
 
